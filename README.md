@@ -10,7 +10,7 @@ My journey in Information Technology has led me to develop a passion for Cloud &
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Wireshark Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Analyzing HTTP Traffic with Wireshark          | <a href="https://github.com/MattheuSegura/Analyzing-HTTP-Traffic-with-Wireshark/tree/main">Packet Analysis Lab</a>|
 | Detecting and Investigating Malware Traffic | <a href="https://google.com">Detection Lab</a>|
