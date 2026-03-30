@@ -10,14 +10,13 @@ My journey in Information Technology has led me to develop a passion for Cloud &
 
 ## Skills
 
-| Wireshark                                         | Associated Project         |
+| Wireshark Network Traffic Analysis Labs                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Analyzing HTTP Traffic with Wireshark          | <a href="https://github.com/MattheuSegura/Analyzing-HTTP-Traffic-with-Wireshark/tree/main">Packet Analysis Lab</a>|
+| Analyzing HTTP Traffic          | <a href="https://github.com/MattheuSegura/Analyzing-HTTP-Traffic-with-Wireshark/tree/main">Packet Analysis Lab</a>|
 | Detecting and Investigating Malware Traffic | <a href="https://google.com">Detection Lab</a>|
 | Wireshark for Network Intrusion         | SOC Automation Lab|
 | Decrypting and Analyzing SSL/TLS Traffic     | SOC Automation Lab|
 | Capturing and Analyzing VoIP Traffic                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
