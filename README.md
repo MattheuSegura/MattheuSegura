@@ -13,7 +13,7 @@ My journey in Information Technology has led me to develop a passion for Cloud &
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Analyzing HTTP Traffic with Wireshark          | <a href="https://google.com">Detection Lab</a>|
+| Analyzing HTTP Traffic with Wireshark          | <a href="https://github.com/MattheuSegura/Analyzing-HTTP-Traffic-with-Wireshark/tree/main">Detection Lab</a>|
 | Detecting and Investigating Malware Traffic | <a href="https://google.com">Detection Lab</a>|
 | Wireshark for Network Intrusion         | SOC Automation Lab|
 | Decrypting and Analyzing SSL/TLS Traffic     | SOC Automation Lab|
@@ -51,6 +51,6 @@ My journey in Information Technology has led me to develop a passion for Cloud &
 </div>
 
 ## Projects
-- Wireshark
+- <a href="https://github.com/MattheuSegura/Analyzing-HTTP-Traffic-with-Wireshark/tree/main">Detection Lab</a>
 - Detection Lab
 - SOC Automation Project
