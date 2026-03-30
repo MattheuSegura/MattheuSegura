@@ -2,18 +2,19 @@
 <a href="https://linkedin.com/in/MattheuSegura/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I have profound interest in technology and a dedication to solving complex problems.
+IT professional with 3+ years of experience in technical support, network diagnostics, and cloud-integrated systems. Experienced in Microsoft Entra ID, Windows administration, and identity management across enterprise environments.
+Currently transitioning into Cloud Security — building hands-on skills through project-based labs and advancing toward CompTIA Security+, and Microsoft Azure certifications.
 
 ## Objective
 
-My journey in Information Technology has led me to develop a passion for Cloud & Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To transition into a Cloud Security or Security Operations role where I can apply my technical foundation in network analysis, identity management, and incident response while continuing to grow toward Cloud Security Engineering.
 
 ## Skills
 
 | Wireshark Network Traffic Analysis Labs                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Analyzing HTTP Traffic          | <a href="https://github.com/MattheuSegura/Analyzing-HTTP-Traffic-with-Wireshark/tree/main">Packet Analysis Lab</a>|
-| Detecting and Investigating Malware Traffic | <a href="https://google.com">Detection Lab</a>|
+| Malware Traffic Analysis & Investigation | <a href="https://google.com">Packet Analysis Lab</a>|
 | Wireshark for Network Intrusion         | SOC Automation Lab|
 | Decrypting and Analyzing SSL/TLS Traffic     | SOC Automation Lab|
 | Capturing and Analyzing VoIP Traffic                  | SOC Automation Lab|
