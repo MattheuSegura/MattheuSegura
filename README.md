@@ -11,12 +11,22 @@ To transition into a Cloud Security or Security Operations role where I can appl
 
 ## Skills
 
-| Wireshark Network Traffic Analysis Labs                                        | Associated Project         |
+| Network Analysis Labs                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Analyzing HTTP Traffic          | <a href="https://github.com/MattheuSegura/Analyzing-HTTP-Traffic-with-Wireshark/tree/main">Packet Analysis Lab</a>|
 | Malware Traffic Analysis & Investigation | <a href="https://google.com">Packet Analysis Lab</a>|
-| Wireshark for Network Intrusion         | SOC Automation Lab|
-| Decrypting and Analyzing SSL/TLS Traffic     | SOC Automation Lab|
+| Wireshark DNS Analysis & Investigation         | SOC Automation Lab|
+
+| Security Labs                                        | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Capturing and Analyzing VoIP Traffic                  | SOC Automation Lab|
+| Capturing and Analyzing VoIP Traffic                  | SOC Automation Lab|
+| Capturing and Analyzing VoIP Traffic                  | SOC Automation Lab|
+
+| Cloud Security Labs                                        | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Capturing and Analyzing VoIP Traffic                  | SOC Automation Lab|
+| Capturing and Analyzing VoIP Traffic                  | SOC Automation Lab|
 | Capturing and Analyzing VoIP Traffic                  | SOC Automation Lab|
 
 ## Tools
