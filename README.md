@@ -15,7 +15,7 @@ To transition into a Cloud Security or Security Operations role where I can appl
 |-----------------------------------------------|----------------------------|
 | Analyzing HTTP Traffic          | <a href="https://github.com/MattheuSegura/Analyzing-HTTP-Traffic-with-Wireshark/tree/main">Packet Analysis Lab</a>|
 | Malware Traffic Analysis & Investigation | <a href="https://google.com">Packet Analysis Lab</a>|
-| Wireshark DNS Analysis & Investigation         | SOC Automation Lab|
+| DNS Analysis & Investigation         | SOC Automation Lab|
 
 | Security Labs                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
