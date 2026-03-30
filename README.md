@@ -9,7 +9,6 @@ I have profound interest in technology and a dedication to solving complex probl
 My journey in Information Technology has led me to develop a passion for Cloud & Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +20,6 @@ My journey in Information Technology has led me to develop a passion for Cloud &
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -42,7 +40,6 @@ My journey in Information Technology has led me to develop a passion for Cloud &
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -52,5 +49,3 @@ My journey in Information Technology has led me to develop a passion for Cloud &
 
 ## Projects
 - <a href="https://github.com/MattheuSegura/Analyzing-HTTP-Traffic-with-Wireshark/tree/main">Detection Lab</a>
-- Detection Lab
-- SOC Automation Project
