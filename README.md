@@ -9,7 +9,7 @@ Currently transitioning into Cloud Security — building hands-on skills through
 
 To transition into a Cloud Security or Security Operations role where I can apply my technical foundation in network analysis, identity management, and incident response while continuing to grow toward Cloud Security Engineering.
 
-## Skills
+## Cybersecurity Portfolio
 
 | Network Analysis Labs                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
