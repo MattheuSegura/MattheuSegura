@@ -19,15 +19,15 @@ To transition into a Cloud Security or Security Operations role where I can appl
 
 | Security Labs                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Capturing and Analyzing VoIP Traffic                  | SOC Automation Lab|
-| Capturing and Analyzing VoIP Traffic                  | SOC Automation Lab|
-| Capturing and Analyzing VoIP Traffic                  | SOC Automation Lab|
+| TBA                  | Lab|
+| TBA                  | Lab|
+| TBA                  | Lab|
 
 | Cloud Security Labs                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Capturing and Analyzing VoIP Traffic                  | SOC Automation Lab|
-| Capturing and Analyzing VoIP Traffic                  | SOC Automation Lab|
-| Capturing and Analyzing VoIP Traffic                  | SOC Automation Lab|
+| TBA                  | Lab|
+| TBA                  | Lab|
+| TBA                  | Lab|
 
 ## Tools
 
