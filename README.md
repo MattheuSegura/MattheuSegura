@@ -59,3 +59,4 @@ To transition into a Cloud Security or Security Operations role where I can appl
 
 ## Projects
 - <a href="https://github.com/MattheuSegura/Analyzing-HTTP-Traffic-with-Wireshark/tree/main">Packet Analysis Lab</a>
+- <a href="https://github.com/MattheuSegura/Malware-Traffic-Analysis-Investigation/tree/main">Malware Analysis Lab</a>
