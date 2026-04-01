@@ -14,7 +14,7 @@ To transition into a Cloud Security or Security Operations role where I can appl
 | Network Analysis Labs                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Analyzing HTTP Traffic          | <a href="https://github.com/MattheuSegura/Analyzing-HTTP-Traffic-with-Wireshark/tree/main">Packet Analysis Lab</a>|
-| Malware Traffic Analysis & Investigation | <a href="https://google.com](https://github.com/MattheuSegura/Malware-Traffic-Analysis-Investigation/tree/main">Malware Analysis Lab</a>|
+| Malware Traffic Analysis & Investigation | <a href="https://github.com/MattheuSegura/Malware-Traffic-Analysis-Investigation/tree/main">Malware Analysis Lab</a>|
 | DNS Traffic Analysis & Investigation         | SOC Automation Lab|
 
 | Security Labs                                        | Associated Project         |
