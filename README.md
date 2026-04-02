@@ -3,7 +3,7 @@
 
 
 IT professional with 3+ years of experience in technical support, network diagnostics, and cloud-integrated systems. Experienced in Microsoft Entra ID, Windows administration, and identity management across enterprise environments.
-Currently transitioning into Cloud Security — building hands-on skills through project-based labs and advancing toward CompTIA Security+, and AWS certifications.
+Currently transitioning into Cloud Security — building hands-on skills through project-based labs and advancing toward Security+, and AWS certifications.
 
 ## Objective
 
