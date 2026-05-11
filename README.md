@@ -2,8 +2,8 @@
 <a href="https://linkedin.com/in/MattheuSegura/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-IT professional with 3+ years of experience in technical support, network diagnostics, and enterprise systems support. Experienced in Microsoft Entra ID, Windows administration, identity management, and troubleshooting across enterprise environments.
-Currently transitioning into Network Engineering with a focus on network security, routing & switching, and network automation through hands-on labs and certification-driven learning.
+IT Professional transitioning into Network Engineering.
+Building skills in routing & switching, network security, and automation through hands-on labs and Cisco certifications.
 
 ## Objective
 
