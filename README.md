@@ -2,12 +2,12 @@
 <a href="https://linkedin.com/in/MattheuSegura/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-IT professional with 3+ years of experience in technical support, network diagnostics, and cloud-integrated systems. Experienced in Microsoft Entra ID, Windows administration, and identity management across enterprise environments.
-Currently transitioning into Cloud Security — building hands-on skills through project-based labs and advancing toward Security+, and AWS certifications.
+IT professional with 3+ years of experience in technical support, network diagnostics, and enterprise systems support. Experienced in Microsoft Entra ID, Windows administration, identity management, and troubleshooting across enterprise environments.
+Currently transitioning into Network Engineering with a focus on network security, routing & switching, and network automation through hands-on labs and certification-driven learning.
 
 ## Objective
 
-To transition into a Cloud Security or Security Operations role where I can apply my technical foundation in network analysis, identity management, and incident response while continuing to grow toward Cloud Security Engineering.
+Transition into a Network Engineer role leveraging strong foundations in troubleshooting, systems support, network analysis, and infrastructure technologies
 
 ## Cybersecurity Portfolio
 
